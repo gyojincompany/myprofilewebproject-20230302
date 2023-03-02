@@ -50,4 +50,14 @@ public class HomeController {
 	public String memberModifyOk() {
 		return "memberModifyOk";
 	}
+	
+	@RequestMapping(value = "/questionModify")
+	public String questionModify() {
+		return "questionModify";
+	}
+	
+	@RequestMapping(value = "/questionView")
+	public String questionView() {
+		return "questionView";
+	}
 }
