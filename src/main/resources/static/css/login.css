@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+td.input_text01 {
+	font-family: malgun;
+	font-size: 20px;
+	font-weight: bold;
+	color: #205295;
+}
+
+input.input_box01 {
+	border: 1px solid #144272;
+	background-color: #ffffff;
+	width: 250px;
+	padding: 5px;
+	font-family: Arial;
+	font-size: 20px;
+	color: #0f76f4;
+}
+
+input.button01 {
+	
+}
