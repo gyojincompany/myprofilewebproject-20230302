@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+body {	
+	margin:0;
+	padding:0;
+}
+
+tr.header01 {
+	height: 50px;
+	background-color: #0A2647;
+}
+
+tr.header02 {/*헤더 하단 여백 */
+	height: 50px;	
+}
+
+td.headertext01 {
+	width:3%;
+	font-size: 20px;
+	font-family: Arial;
+	color: #eef7ff;
+	text-align: center;
+}
+
+td.margin01 {
+	width:65%;
+}
+
+td.margin02 {
+	width:0.7%;
+}
