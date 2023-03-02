@@ -44,7 +44,7 @@
 			<td class="margin02">&nbsp;</td>
 			<td class="headertext01"><a href="profile">PROFILE</a></td>
 			<td class="margin02">&nbsp;</td>
-			<td class="headertext01"><a href="#">QUESTION</a></td>
+			<td class="headertext01"><a href="question">QUESTION</a></td>
 			<td class="margin02">&nbsp;</td>
 			<td class="headertext01"><a href="contact">CONTACT</a></td>
 			<td class="margin02">&nbsp;</td>
