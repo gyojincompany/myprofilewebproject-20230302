@@ -10,6 +10,7 @@
 <title>** GYOJIN's PROFILE **</title>
 </head>
 <body>
+	<%@ include file="include/header.jsp" %>
 	<center>
 	<table width="75%" border="0" cellspacing="0" cellpadding="20">
 		<tr>
@@ -30,7 +31,7 @@
 							<span class="title03">J</span><span class="title04">AVA</span>
 						</td>
 						<td rowspan="6" class="picbox">
-							<img src="${pageContext.request.contextPath }/resources/img/kongyu.jpg">
+							<img src="${pageContext.request.contextPath }/resources/img/kongyu.jpg" width="700">
 						</td>
 					</tr>
 					<tr>
@@ -63,5 +64,6 @@
 		</tr>	
 	</table>
 	</center>
+	<%@ include file="include/footer.jsp" %>
 </body>
 </html>
