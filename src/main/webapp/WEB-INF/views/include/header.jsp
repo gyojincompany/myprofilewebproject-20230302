@@ -25,7 +25,7 @@
 			<%
 				} else {
 			%>
-			<td class="headertext01"><a href="#">LOGOUT</a></td>
+			<td class="headertext01"><a href="logout">LOGOUT</a></td>
 			<%
 				}
 			%>
@@ -37,7 +37,7 @@
 			<%
 				} else {
 			%>
-			<td class="headertext01"><a href="#">MODIFY</a></td>
+			<td class="headertext01"><a href="memberModify">MODIFY</a></td>
 			<%
 				}
 			%>
