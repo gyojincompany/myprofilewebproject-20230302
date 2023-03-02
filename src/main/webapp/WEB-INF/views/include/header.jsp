@@ -24,7 +24,9 @@
 			<td class="headertext01">CONTACT</td>
 			<td class="margin02">&nbsp;</td>
 		</tr>		
-		<tr class="header02">&nbsp;</tr>	
+		<tr class="header02">
+			<td>&nbsp;</td>
+		</tr>	
 	</table>
 </body>
 </html>
