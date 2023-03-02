@@ -10,7 +10,8 @@
 <title>** GYOJIN's PROFILE **</title>
 </head>
 <body>
-	<table width="75%" border="1" cellspacing="0" cellpadding="20">
+	<center>
+	<table width="75%" border="0" cellspacing="0" cellpadding="20">
 		<tr>
 			<td align="center">
 				<span class="title01">DEVELOPER GYOJIN'S PROFILE</span>
@@ -22,44 +23,45 @@
 			</td>
 		</tr>
 		<tr>
-			<td>
-				<table width="80%" border="1" cellspacing="0" cellpadding="10">
+			<td align="center">
+				<table width="80%" border="0" cellspacing="0" cellpadding="10">
 					<tr>
-						<td>
-							JAVA
+						<td class="skillbox">
+							<span class="title03">J</span><span class="title04">AVA</span>
 						</td>
-						<td rowspan="6">
-							
-						</td>
-					</tr>
-					<tr>
-						<td>
-							JSP
+						<td rowspan="6" class="picbox">
+							<img src="${pageContext.request.contextPath }/resources/img/kongyu.jpg">
 						</td>
 					</tr>
 					<tr>
-						<td>
-							SPRINGBOOT
+						<td class="skillbox">
+							<span class="title03">J</span><span class="title04">SP</span>
 						</td>
 					</tr>
 					<tr>
-						<td>
-							JAVASCRIPT
+						<td class="skillbox">
+							<span class="title03">S</span><span class="title04">PRINGBOOT</span>
 						</td>
 					</tr>
 					<tr>
-						<td>
-							HTML5
+						<td class="skillbox">
+							<span class="title03">J</span><span class="title04">AVASCRIPT</span>
 						</td>
 					</tr>
 					<tr>
-						<td>
-							DATABASE
+						<td class="skillbox">
+							<span class="title03">H</span><span class="title04">TML5</span>
+						</td>
+					</tr>
+					<tr>
+						<td class="skillbox">
+							<span class="title03">D</span><span class="title04">ATABASE</span>
 						</td>
 					</tr>
 				</table>
 			</td>
 		</tr>	
 	</table>
+	</center>
 </body>
 </html>

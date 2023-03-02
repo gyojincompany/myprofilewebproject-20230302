@@ -13,3 +13,32 @@ span.title02 {
 	font-family: Arial;
 	font-weight: normal;
 }
+
+span.title03 {
+	font-size: 60px;
+	color: #0A2647;
+	font-family: Arial;
+	font-weight: bold;
+}
+
+span.title04 {
+	font-size: 40px;
+	color: #1f76e0;
+	font-family: Arial;
+	font-weight: bold;
+}
+
+td.skillbox {
+	background-color: #eef7ff;
+}
+
+td.picbox {
+	background-color: #04366c;
+	text-align: center;/* 이미지 가운데 정렬 */
+}
+
+
+
+
+
+
