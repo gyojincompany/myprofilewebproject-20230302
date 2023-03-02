@@ -1,2 +1,15 @@
 @charset "UTF-8";
 
+span.title01 {
+	font-size: 70px;
+	color: #0A2647;
+	font-family: Arial;
+	font-weight: bold;
+}
+
+span.title02 {
+	font-size: 20px;
+	color: #1f76e0;
+	font-family: Arial;
+	font-weight: normal;
+}
