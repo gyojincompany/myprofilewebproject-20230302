@@ -25,7 +25,7 @@
 			<%
 				} else {
 			%>
-			<td class="headertext01"><a href="#">LOOUT</a></td>
+			<td class="headertext01"><a href="#">LOGOUT</a></td>
 			<%
 				}
 			%>
@@ -33,7 +33,7 @@
 			<%
 				if(sessionId == null) {
 			%>	
-			<td class="headertext01"><a href="#">JOIN</a></td>
+			<td class="headertext01"><a href="join">JOIN</a></td>
 			<%
 				} else {
 			%>
