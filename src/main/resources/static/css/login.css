@@ -18,5 +18,33 @@ input.input_box01 {
 }
 
 input.button01 {
-	
+	border: 2px solid #ffffff;
+	background-color: #2C74B3;
+	width: 180px; 
+	height: 40px;
+	font-family: malgun;
+	font-size: 20px;
+	color: #ffffff;
+	padding: 5px;
 }
+
+input.button01:hover {
+	border: 2px solid #ffffff;
+	background-color: #10283f;
+	width: 180px; 
+	height: 40px;
+	font-family: malgun;
+	font-size: 20px;
+	color: #ffffff;
+	padding: 5px;
+	cursor: pointer;
+}
+
+
+
+
+
+
+
+
+

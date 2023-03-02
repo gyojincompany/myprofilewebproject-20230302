@@ -41,7 +41,7 @@
 										<td><input class="input_box01" type="password" name="mpw"></td>
 									</tr>
 									<tr>
-										<td colspan="2">
+										<td colspan="2" align="center">
 											<input class="button01" type="submit" value="로그인">
 											<input class="button01" type="button" value="회원가입" onclick="javascript:window.location='join'">
 										</td>										
